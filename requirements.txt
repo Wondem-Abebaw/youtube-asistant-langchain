@@ -1,6 +1,10 @@
-python-dotenv
 langchain
-openai
-youtube-transcript-api
+langchain-openai
+langchain-community
+langchain-core
+langchain-text-splitters
 faiss-cpu
+youtube-transcript-api
+pytube
 streamlit
+python-dotenv
